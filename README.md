@@ -1,1 +1,1 @@
-# SpotifyEmailChecker
+# Spotify Valid Email Checker
